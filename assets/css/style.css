@@ -186,8 +186,11 @@ input {
 #slider {
   position: relative;
   margin-top: 46.5px;
-  padding-top: 50%;
-  background: url("./assets/img/slider/chicago.jpg") top center / cover no-repeat;
+}
+
+#slider img {
+  width: 100%;
+  vertical-align: middle;
 }
 
 #slider .text-slider {
