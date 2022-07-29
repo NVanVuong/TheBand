@@ -187,7 +187,7 @@ input {
   position: relative;
   margin-top: 46.5px;
   padding-top: 50%;
-  background: url("/assets/img/slider/chicago.jpg") top center / cover no-repeat;
+  background: url("./assets/img/slider/chicago.jpg") top center / cover no-repeat;
 }
 
 #slider .text-slider {
