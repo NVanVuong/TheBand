@@ -486,6 +486,7 @@ input {
   padding: 8px 16px;
   border: none;
   float: right;
+  -webkit-appearance: none;
 }
 
 .form-submit-btn:hover {
